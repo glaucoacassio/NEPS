@@ -1,0 +1,19 @@
+Área do Quadrado
+      
+
+Faça um programa para um inteiro 𝐿L e imprima a área de uma quadrado de lado 𝐿L.
+
+Entrada
+A entrada consiste de uma linha contendo um inteiro 𝐿L.
+
+Saída
+A saída consiste de uma linha contendo a área do quadrado de lado 𝐿L.
+
+Restrições
+Os inteiros fornecidos não terem valor maior que 1000 ou menor que 1
+Exemplos de Entrada	    Exemplos de Saída
+1	                      1
+2	                      4
+3	                      9
+
+Fonte: https://neps.academy/problem/138
