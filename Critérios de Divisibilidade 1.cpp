@@ -1,7 +1,7 @@
 /* 
  * File:   teste1.cpp
  * Author: glaucoacassioc
- *
+ * Resolvi usando string...
  * Created on 21 de Agosto de 2020, 21:19
  */
 #include <iostream>
