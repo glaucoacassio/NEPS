@@ -1,0 +1,17 @@
+Critérios de Divisibilidade 3
+      
+Escreva um programa que testa se um número é divisível por 11.
+
+Entrada
+A única linha dos casos de teste contém um número 𝑁N.
+
+Saída
+Imprima 1 linha, escreva ‘S’ se o número for divisível por 11 e ‘N’ caso contrário.
+
+Restrições
+0≤𝑁≤10^100000
+
+Exemplos de Entrada	            Exemplos de Saída
+374	                            S
+1100	                            S
+111111111	                    N
