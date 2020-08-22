@@ -1,0 +1,26 @@
+Fibonacci
+     
+Uma famosa sequência matemática é a sequência de Fibonacci, está sequência é definida por:
+
+𝑓𝑖𝑏(0)=𝑓𝑖𝑏(1)=1
+fib(0)=fib(1)=1
+
+𝑓𝑖𝑏(𝑛)=𝑓𝑖𝑏(𝑛−1)+𝑓𝑖𝑏(𝑛−2)
+fib(n)=fib(n−1)+fib(n−2)
+
+Escreva um programa que dado 𝑁N retorna o n-ésimo número de Fibonacci.
+
+Entrada
+A entrada contem um único número 𝑁N.
+
+Saída
+O valor do n-ésimo número de Fibonacci.
+
+Restrições
+0≤𝑁≤30
+
+Exemplos de Entrada	                Exemplos de Saída
+3	                                  3
+5	                                  8
+
+Fonte: https://neps.academy/problem/257
