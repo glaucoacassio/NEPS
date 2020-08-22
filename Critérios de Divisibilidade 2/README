@@ -1,0 +1,26 @@
+Critérios de Divisibilidade 2
+     
+Envie sua solução usando o botão 
+Escreva um programa que testa se um número é divisível por 4, 9 ou 25.
+
+Entrada
+A única linha dos casos de teste contém um número 𝑁N.
+
+Saída
+Imprima 3 linhas, na primeira linha escreva ‘S’ se o número for divisível por 4 e ‘N’ caso contrário, na segunda linha faça o mesmo para 9 e na terceira linha para 25.
+
+Restrições
+0≤N≤10^100000
+
+Exemplos de Entrada	            Exemplos de Saída
+900	                            S
+                                S
+                                S
+                                
+1100	                          S
+                                N
+                                S
+                                
+111111111	                      N
+                                S
+                                N
