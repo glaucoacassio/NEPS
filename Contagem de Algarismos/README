@@ -1,0 +1,26 @@
+Contagem de Algarismos
+     
+ 
+Faça um programa para ler um inteiro 𝑁N, depois 𝑁N inteiros positivos. Imprima a quantidade de cada algarismo que apareceu nos 𝑁N números lidos.
+
+Entrada
+A entrada consiste de múltiplas linhas. A primeira linha contém um inteiro 𝑁N representando a quantidade de número que serão fornecidos. Então seguirão 𝑁N números inteiros.
+
+Saída
+A saída consiste de 10 linhas, cada linha contém um algarismo e o número de ocorrências desse algarismo.
+
+Exemplos de Entrada	          Exemplos de Saída
+3
+224                           0 - 0
+123                           1 - 1
+9787	                        2 - 3
+                              3 - 1
+                              4 - 1
+                              5 - 0
+                              6 - 0
+                              7 - 2
+                              8 - 1
+                              9 - 1
+                              
+                              
+Fonte: https://neps.academy/problem/189
