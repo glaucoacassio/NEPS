@@ -18,12 +18,12 @@ Exemplos de Entrada	                Exemplos de Saída
                                     S
                                     S
                                     
-1100	                              S
-                                    N
-                                    S
+1100	                            S
+                                         N
+                                         S
                                     
-111111111111111	                    N
-                                    S
-                                    N
+111111111111111	                     N
+                                         S
+                                         N
 
 Fonte: https://neps.academy/problem/266
