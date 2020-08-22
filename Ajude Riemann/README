@@ -1,0 +1,21 @@
+Ajude Riemann
+     
+Envie sua solução usando o botão 
+Seu trabalho conjunto com Riemann anda bastante produtivo, na verdade ele já se tornou um matemático bastante famoso graças a sua colaboração, agora porém ele está com uma nova ideia, dado um valor 𝑁N, ele criou uma função que retorna quem é o N-ésimo primo, porém ele não tem certeza se sua função está certa, então cabe a você, o único amigo dele que sabe programar, fazer uma função que funcione para que ele possa comparar com a dele.
+
+Entrada
+A única linha dos casos de teste contém um número 𝑁N.
+
+Saída
+Imprima quem é o N-ésimo primo.
+
+A maior resposta é menor que 12 milhões.
+
+Restrições
+1≤𝑁≤1061≤N≤10
+​6
+​​
+Exemplos de Entrada	Exemplos de Saída
+1	                  2
+3	                  5
+6	                  13
