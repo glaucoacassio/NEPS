@@ -1,11 +1,11 @@
 #include <iostream>
-
+#define MAX 12000002
 using namespace std;
 
 void sieve(int n)
 {
     int i = 2, counter = 0;
-    bool is_prime[12000002];
+    bool is_prime[MAX];
 
     is_prime[1] = 1;
     while (counter < n)
