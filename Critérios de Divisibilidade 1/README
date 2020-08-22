@@ -1,10 +1,10 @@
 Critérios de Divisibilidade 1
      
-Envie sua solução usando o botão 
+
 Escreva um programa que testa se um número é divisível por 2, 3 ou 5.
 
 Entrada
-A única linha dos casos de teste contém um número NN.
+A única linha dos casos de teste contém um número N.
 
 Saída
 Imprima 3 linhas, na primeira linha escreva S se o número for divisível por 2 e N caso contrário, na segunda linha faça o mesmo para 3 e na terceira linha para 5.
