@@ -1,0 +1,29 @@
+Critérios de Divisibilidade 1
+     
+Envie sua solução usando o botão 
+Escreva um programa que testa se um número é divisível por 2, 3 ou 5.
+
+Entrada
+A única linha dos casos de teste contém um número NN.
+
+Saída
+Imprima 3 linhas, na primeira linha escreva S se o número for divisível por 2 e N caso contrário, na segunda linha faça o mesmo para 3 e na terceira linha para 5.
+
+Restrições
+0 \leq N \leq 0≤N≤10^100000
+
+
+Exemplos de Entrada	                Exemplos de Saída
+30	                                S
+                                    S
+                                    S
+                                    
+1100	                              S
+                                    N
+                                    S
+                                    
+111111111111111	                    N
+                                    S
+                                    N
+
+Fonte: https://neps.academy/problem/266
