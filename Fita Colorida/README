@@ -16,7 +16,7 @@ Restrições
 3≤𝑁≤10^4
 
 Sempre existe pelo menos um “0” inicialmente na fita.
-Exemplos de Entrada	                                      Exemplos de Saída
+Exemplos de Entrada	                                    Exemplos de Saída
 8
 -1 -1 0 -1 -1 -1 0 -1	                                    2 1 0 1 2 1 0 1
 
@@ -25,5 +25,7 @@ Exemplos de Entrada	                                      Exemplos de Saída
 
 6
 0 -1 -1 -1 -1 -1	                                    0 1 2 3 4 5
+
+
 
 Fonte: https://neps.academy/problem/49
