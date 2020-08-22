@@ -14,7 +14,8 @@ Saída
 A saída do seu programa deve ser apenas uma linha. Caso o aluno tenha sido aprovado informe “Aprovado”, caso o aluno tenha sido reprovado informe “Reprovado” e caso ele esteja de recuperação informe “Recuperacao”.
 
 Exemplos de Entrada	  Exemplos de Saída
-4.3 5	                        Recuperacao
-10 9.8	                  Aprovado
+4.3 5	                    Recuperacao
+10 9.8	              Aprovado
+
 
 Fonte: https://neps.academy/problem/86
