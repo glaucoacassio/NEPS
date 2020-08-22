@@ -1,0 +1,21 @@
+Fatorial
+     
+Envie sua solução usando o botão 
+Faça um programa para ler um inteiro 𝑁N e imprima o valor de 𝑁!N!. 𝑁!N! significa fatorial de 𝑁N.
+
+Entrada
+A entrada consiste de uma linha contendo o valor de 𝑁N.
+
+Saída
+A saída consiste de uma linha contendo o valor de 𝑁!N!.
+
+Restrições
+0≤𝑁≤12
+
+Exemplos de Entrada	          Exemplos de Saída
+0	                            1
+1	                            1
+5	                            120
+6	                            720
+
+Fonte: https://neps.academy/problem/158
