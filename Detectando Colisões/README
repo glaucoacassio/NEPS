@@ -1,0 +1,35 @@
+Detectando Colisões
+OBI 2007 - Primeira Fase - Nivel 1
+
+     
+Detecção de colisão é uma das operações mais comuns (e importantes) em jogos eletrônicos. O objetivo, basicamente, é verificar se dois objetos quaisquer colidiram, ou seja, se a interseção entre eles é diferente de vazio. Isso pode ser usado para saber se duas naves colidiram, se um monstro bateu numa parede, se um personagem pegou um item, etc.
+
+Para facilitar as coisas, muitas vezes os objetos são aproximados por figuras geométricas simples (esferas, paralelepípedos, triângulos etc). Neste problema, os objetos são aproximados por retângulos num plano 2D.
+
+Escreva um programa que, dados dois retângulos, determine se eles se interceptam ou não.
+
+Entrada
+A entrada contém um único conjunto de testes, que deve ser lido do dispositivo de entrada padrão (normalmente o teclado). Cada caso de teste contém duas linhas. Cada linha contém quatro inteiros (x_0, y_0, x_1, y_1x0,y0,x1,y1), separados por um espaço em branco representando um retângulo. Os lados do retângulo são sempre paralelos aos eixos x e y.
+
+Os casos de teste utilizados nesse problema são os casos de teste oficiais da OBI, alguns casos podem apresentar espaços (" ") no final das linhas da entrada. Essa informação pode ser importante para quem está resolvendo esse problema em Python.
+
+Saída
+Seu programa deve imprimir, na saída padrão, uma única linha para cada caso de teste, contendo o número 0 (zero) caso não haja interseção ou o número 1 (um) caso haja.
+
+Restrições
+0≤x0<x1≤10^6
+0≤y0<y1≤10^6
+
+
+Exemplos de Entrada	              Exemplos de Saída
+0 0 1 1                               1
+0 0 1 1
+
+0 0 2 2
+1 1 3 3	                              1
+
+0 0 1 1
+2 2 3 3	                              0
+
+
+Fonte: https://neps.academy/problem/310
