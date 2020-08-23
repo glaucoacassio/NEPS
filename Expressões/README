@@ -34,7 +34,7 @@ Exemplos de Entrada	                     Exemplos de Saída
 {[]                                           N
 (                                             N
 (([{}{}()[]])(){}){}                          S
-(((((((((({([])}])))))))))	                N
+(((((((((({([])}])))))))))	             N
 
 
 Fonte: https://neps.academy/problem/271
