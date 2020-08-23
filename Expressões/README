@@ -2,7 +2,6 @@ Expressões
 OBI 2011 - Segunda Fase - Nível 2
 
      
-Solução Correta
 Pedrinho e Zezinho estão precisando estudar resolução de expressões matemáticas para uma prova que irão fazer. Para isso, eles querem resolver muitos exercícios antes da prova. Como sabem programar, então decidiram fazer um gerador de expressões matemáticas.
 
 O gerador de expressões que eles criaram funciona em duas fases. Na primeira fase é gerada uma cadeia de caracteres que contém apenas os caracteres ‘{’, ‘[’, ‘(’, ‘}’, ‘]’ e ‘)’. Na segunda fase, o gerador adiciona os números e operadores na estrutura criada na primeira fase. Uma cadeia de caracteres é dita bem definida (ou válida) se atende as seguintes propriedades:
