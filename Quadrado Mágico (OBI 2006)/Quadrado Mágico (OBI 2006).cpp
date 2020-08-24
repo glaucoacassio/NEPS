@@ -6,6 +6,7 @@ hoje é dia 23/08/2020(ate o moemnto da isso),no site da OBI e do NEPS roda perf
 algum bug ou casos de teste que nao tentei. 
 Estranho dar problema ja que ate o enunciado esta igual(sim, eu li e reli pra ter certeza se tinha mudado algo), como hoje to sem paciencia
 nao vou ficar buscando chifre na cabeça de cavalo...
+
 */
 #include <iostream>
 #include <vector>
