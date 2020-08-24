@@ -1,0 +1,34 @@
+Quadrado Mágico (OBI 2006)
+OBI 2006 - Segunda Fase - Nivel 1
+
+     
+Senhor Coelho é conhecido mundialmente pela fabricação de quadrados mágicos de dimensões 3 \times 33×3. Um quadrado é chamado mágico quando a soma dos elementos de uma determinada linha, coluna ou diagonal é sempre igual.
+
+Infelizmente, assaltantes invadiram recentemente a oficina do Sr. Coelho e roubaram alguns dos números de seus quadrados mágicos. Felizmente os meliantes não conseguiram roubar mais do que 3 números de cada quadrado. Desesperado, pois devia entregar os quadrados naquele dia, o Sr. Coelho veio procurar a sua ajuda para tentar completar os quadrados com os números faltantes.
+
+Escreva um programa que, dado um quadrado mágico com alguns números faltando, determine qual era o quadrado mágico original.
+
+Entrada
+A entrada contém um único conjunto de testes, que deve ser lido do dispositivo de entrada padrão (normalmente o teclado). A entrada contém três linhas, cada uma contendo três inteiros NN. O número zero representa os dígitos que foram roubados. Existem no máximo três números zero na entrada.
+
+Saída
+Seu programa deve imprimir, na saída padrão, três linhas, cada uma contendo três inteiros, descrevendo a configuração original do quadrado mágico.
+
+Restrições
+0≤N≤20000
+
+Exemplos de Entrada	                Exemplos de Saída
+4 9 2                                   4 9 2
+3 0 7                                   3 5 7
+8 1 6                                   8 1 6	        
+    
+0 12 12                                 6 12 12
+16 10 0                                 16 10 4
+8 8 14	                                8 8 14
+
+495 468 0                               495 468 603
+0 522 414                               630 522 414
+441 0 549	                        441 576 549
+
+
+Fonte: https://neps.academy/problem/618
