@@ -1,9 +1,11 @@
 /*
 
 Observacao:
-- Se voce pegar esse mesmo codigo e rodar no site do URI dar resposta errada ou erro de apresentacao(nao sei o porque),
-no site da OBI e do NEPS roda perfeito mas la dar esse problema, talvez seja algum bug ou casos de teste que nao tentei e nem vou. 
-
+- Se voce pegar esse mesmo codigo e rodar no site do URI, vai dar resposta errada ou erro de apresentacao(nao sei o porque), 
+hoje é dia 23/08/2020(ate o moemnto da isso),no site da OBI e do NEPS roda perfeito mas la dar esse problema, talvez seja 
+algum bug ou casos de teste que nao tentei. 
+Estranho dar problema ja que ate o enunciado esta igual(sim, eu li e reli pra ter certeza se tinha mudado algo), como hoje to sem paciencia
+nao vou ficar buscando chifre na cabeça de cavalo...
 */
 #include <iostream>
 #include <vector>
