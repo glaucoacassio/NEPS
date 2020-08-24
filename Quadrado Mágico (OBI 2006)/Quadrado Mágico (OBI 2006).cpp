@@ -62,21 +62,18 @@ int main(int argc, char *argvs[])
         soma /= 2;
     }
 
-    for (int tentativas = 0; tentativas < 3; ++tentativas)
-    {
-        for (int i = 0; i < 3; ++i)
-            for (int j = 0; j < 3; ++j)
-            {
 
+    for (int i = 0; i < 3; ++i)
+         for (int j = 0; j < 3; ++j)
+         {
                 /*Testa mesma linha*/
-                if ((a[i][j] == 0) && (a[i][0] == 0) + (a[i][1] == 0) + (a[i][2] == 0) == 1)
-                    a[i][j] = soma - a[i][0] - a[i][1] - a[i][2];
+              if ((a[i][j] == 0) && (a[i][0] == 0) + (a[i][1] == 0) + (a[i][2] == 0) == 1)
+                   a[i][j] = soma - a[i][0] - a[i][1] - a[i][2];
 
                 /*Testa mesma coluna*/
-                if ((a[i][j] == 0) && (a[0][j] == 0) + (a[1][j] == 0) + (a[2][j] == 0) == 1)
+               if ((a[i][j] == 0) && (a[0][j] == 0) + (a[1][j] == 0) + (a[2][j] == 0) == 1)
                     a[i][j] = soma - a[0][j] - a[1][j] - a[2][j];
-            }
-    }
+        }
 
     for (int i = 0; i < 3; ++i)
     {
