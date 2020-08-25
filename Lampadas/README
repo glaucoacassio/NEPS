@@ -1,0 +1,27 @@
+Lâmpadas
+OBI 2016 - Primeira Fase - Nível Júnior
+
+      
+Você está de volta em seu hotel na Tailândia depois de um dia de mergulhos. O seu quarto tem duas lâmpadas. Vamos chamá-las de 𝐴A e 𝐵B. No hotel há dois interruptores, que chamaremos de 𝐼1Ie I2. Ao apertar I1, a lâmpada 𝐴A acende se estiver apagada, e apaga se estiver acesa. Se apertar I2, cada uma das lâmpadas 𝐴A e a 𝐵B troca de estado: se estiver apagada, fica acesa e se estiver acesa apaga.
+
+As lâmpadas inicialmente estão ambas apagadas. Seu amigo resolveu bolar um desafio para você. Ele irá apertar os interruptores em uma certa sequência, e gostaria que você respondesse o estado final das lâmpadas 𝐴A e 𝐵B.
+
+Entrada
+A primeira linha contém um número 𝑁N que representa quantas vezes seu amigo irá apertar algum interruptor. Na linha seguinte seguirão N números, que pode ser 1, se o interruptor I1 foi apertado, ou 2, se o interruptor I2 foi apertado.
+
+Saída
+Seu programa deve imprimir dois valores, em linhas separadas. Na primeira linha, imprima 1 se a lâmpada 𝐴A estiver acesa no final das operações e 0 caso contrário. Na segunda linha, imprima 1 se a lâmpada 𝐵B estiver acesa no final das operações e 0 caso contrário.
+
+Restrições
+2≤𝑁≤105
+
+Exemplos de Entrada	              Exemplos de Saída
+3
+1 2 2	                            1
+                                  0
+4
+2 1 2 2	                          0
+                                  1
+ 
+ 
+Fonte: https://neps.academy/problem/52 
