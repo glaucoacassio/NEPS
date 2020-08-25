@@ -15,7 +15,7 @@ Seu programa deve imprimir dois valores, em linhas separadas. Na primeira linha,
 Restrições
 2≤𝑁≤105
 
-Exemplos de Entrada	              Exemplos de Saída
+Exemplos de Entrada	          Exemplos de Saída
 3
 1 2 2	                            1
                                   0
