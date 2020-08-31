@@ -2,21 +2,20 @@
 
 using namespace std;
 
-string title(string F)
+string title(string s)
 {
-    for(int i=0; i<F.length(); i++)
+    for(int i=0; i<s.length(); i++)
     {
-        if (isupper(F[i])) F[i] = tolower(F[i]);
-        if(i == 0 || F[i-1] == ' ') F[i] = toupper(F[i]); 
+        if (isupper(s[i])) s[i] = tolower(s[i]);
+        if(i == 0 || s[i-1] == ' ') s[i] = toupper(s[i]); 
     }
-    return F;
+    return s;
 }
 
 int main()
 {
-    string F;
+    string str;
 
-    getline(cin, F);
-
-    cout << title(F) << "\n";
+    getline(cin, str);
+    cout << title(str) << "\n";
 }
