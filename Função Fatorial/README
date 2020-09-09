@@ -1,0 +1,32 @@
+Função Fatorial
+     
+Envie sua solução usando o botão 
+Em matemática o fatorial de um número natural (representado por 𝑁!N!) é definido como o produto de todos os números naturais 
+maiores que 0 e menores que esse número, e para o 0 é definido como 1 por ser o produto nulo.
+
+𝑁!=𝑁⋅(𝑁−1)⋅(𝑁−2)⋅...⋅2⋅1
+N!=N⋅(N−1)⋅(N−2)⋅...⋅2⋅1
+
+Complete a função escrita em Python 3 abaixo para calcular o fatórial de um número.
+
+def fatorial(N):
+	#Seu código aqui
+    
+N = int(input())
+print(fatorial(N))
+
+Entrada
+A entrada contem um único número 𝑁N.
+
+Saída
+O fatorial de 𝑁N.
+
+Restrições
+0≤𝑁≤12
+
+Exemplos de Entrada	      Exemplos de Saída
+3	                        6
+5	                        120
+
+
+Fonte: https://neps.academy/problem/174
