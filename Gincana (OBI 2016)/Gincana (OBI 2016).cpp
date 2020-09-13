@@ -26,9 +26,8 @@ int main()
 
 	cin>> n >> m;
 	while(gcd(n,m) != 1)
-	{
 		m--;
-	}
+	
 	cout << m << endl;
 	return 0;
 }
