@@ -15,8 +15,8 @@ typedef vector<int> vi;
 ll maximumProduct(vector<ll>& nums) 
 {
 	sort(nums.begin(), nums.end());	
-     return max(nums[0]*nums[1]*nums[nums.size()-1], 
-                nums[nums.size()-1] * nums[nums.size()-2] * nums[nums.size()-3]);
+     	return max(nums[0]*nums[1]*nums[nums.size()-1], 
+		   nums[nums.size()-1] * nums[nums.size()-2] * nums[nums.size()-3]);
 }
 
 int main()
