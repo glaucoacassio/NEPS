@@ -1,0 +1,37 @@
+Régua
+Liga de Programação 2020 - Etapa 3 - Prova
+
+
+Maria tem 9 anos e recentemente sua professora pediu que levasse uma régua para a sala de aula. 
+Para realizar a atividade proposta, a professora pediu que a régua tivesse ao menos KK centímetros, mas a régua que Maria tem em casa está quebrada, 
+e ela não sabe se o tamanho dela é suficiente.
+
+Dadas as medidas XX e YY das marcações nas extremidades da régua, ajude Maria a verificar se o tamanho da régua é o suficiente para ser utilizada na aula.
+
+Entrada
+Na primeira linha será dado um número inteiro indicando a medida KK exigida pela professora. 
+Na segunda linha serão dados dois números inteiros distintos XX e YY, indicando as medidas das duas extremidades da régua.
+
+Saída
+Seu programa deve produzir uma única linha, contendo “EH SUFICIENTE” (sem aspas) se o tamanho da régua for suficiente ou “NAO EH SUFICIENTE” (sem aspas) 
+caso o tamanho da régua for menor que o requisitado.
+
+Restrições
+0≤X≤100
+0≤Y≤100
+1≤K≤100
+
+Exemplos de Entrada	
+30
+0 30	
+
+15
+22 10	
+
+Exemplos de Saída
+EH SUFICIENTE
+
+NAO EH SUFICIENTE
+
+
+Fonte: https://neps.academy/problem/809
