@@ -1,0 +1,30 @@
+Liga de Programação do Neps
+Liga de Programação 2020 - Etapa 1 - Prova
+
+     
+Envie sua solução usando o botão 
+Jonas estuda programação pelo Neps Academy e está muito ansioso pela primeira Liga de Programação do Neps. 
+Depois de muito estudar, ele quer mostrar todo o seu conhecimento nessa competição.
+
+Para isso, Jonas quer estar bem descansado para fazer a prova, tendo uma boa noite de sono no dia anterior à ela. 
+Considerando que Jonas se sente descansado após 8 horas de sono, e que a Liga de Programação começa às XX horas, 
+diga o horário em que Jonas deve ir dormir para acordar com 1 hora de antecedência e poder se preparar.
+
+Entrada
+Será dado um inteiro XX indicando o horário (em horas) no qual a competição começará.
+
+Saída
+Seu programa deve produzir uma única linha, contendo o horário no qual Jonas deve ir dormir.
+
+Restrições
+0≤X≤230≤X≤23
+Exemplos de Entrada	
+12	
+7	
+
+Exemplos de Saída
+3
+22
+
+
+Fonte: https://neps.academy/problem/706
