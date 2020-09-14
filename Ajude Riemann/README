@@ -12,9 +12,8 @@ Imprima quem é o N-ésimo primo.
 A maior resposta é menor que 12 milhões.
 
 Restrições
-1≤𝑁≤1061≤N≤10
-​6
-​​
+1≤N≤10^6
+
 Exemplos de Entrada	Exemplos de Saída
 1	                  2
 3	                  5
