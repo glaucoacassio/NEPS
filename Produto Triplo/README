@@ -1,0 +1,33 @@
+Produto Triplo
+Liga de Programação 2020 - Etapa 1 - Prova
+
+
+Sua tarefa neste problema é bem simples: dado um vetor com NN elementos, ordenado em ordem crescente, diga o maior produto entre 3 de seus elementos.
+
+Entrada
+A primeira linha contém um número NN indicando a quantidade de elementos no vetor.
+
+Seguido de uma linha contendo NN inteiros AiAi.
+
+Saida
+A saída deverá conter um inteiro, representando o maior produto entre 3 elementos no vetor.
+Observação: note que em C++, pode ser necessário o uso do long long int.
+
+Restrições
+3≤N≤2∗10^5 
+−10^5≤Ai≤10^5
+
+Restrições adicionais
+3≤N≤200, em 25% dos casos de teste.
+Exemplos de Entrada	
+3
+0 1 2	
+4
+3 5 9 20	
+
+Exemplos de Saída
+0
+900
+
+
+Fonte: https://neps.academy/problem/676
