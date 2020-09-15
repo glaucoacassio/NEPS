@@ -26,7 +26,7 @@ int main()
 	while(t--)
 	{
 		cin>>value;
-      	auto itr = find(v.begin(), v.end(), value);
+      		auto itr = find(v.begin(), v.end(), value);
 		if(itr != v.end()) v.erase(itr);
 	}
 	for(auto it=v.begin(); it!=v.end(); it++)
