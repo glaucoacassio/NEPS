@@ -21,7 +21,7 @@ Seu programa deve imprimir uma linha contendo o caractere SS, se o perfil for Es
 
 Restrições
 3≤N≤10000.
-1≤A≤1000, para todo 1≤i≤N.
+1≤Ai≤1000, para todo 1≤i≤N.
 
 Informações sobre a pontuação
 • Em um conjunto de casos de teste somando 20 pontos, N=3N=3.
