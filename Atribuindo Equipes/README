@@ -1,0 +1,35 @@
+Atribuindo Equipes
+Maratona de Programação da SBC 2016 - Fase Nacional
+
+     
+Quatro amigos estão jogando tênis de mesa. 
+Cada um deles tem um nível de habilidade que é representado por um número inteiro: quanto maior o número, melhor o jogador é.
+
+Os quatro amigos querem formar duas equipes de dois jogadores cada. 
+Para que o jogo seja mais emocionante, eles querem que o nível de habilidade das equipes seja o mais próximo possível. 
+O nível de habilidade de uma equipe é a soma dos níveis de habilidade dos jogadores dessa equipe.
+
+Embora sejam jogadores de tênis de mesa muito bons, esses amigos não são tão bons em outras coisas, como Matemática ou Computação. 
+Você pode ajudá-los a encontrar a menor diferença possível entre os níveis de habilidades das equipes?
+
+Entrada
+A entrada consiste em uma única linha que contém quatro números inteiros A, B, C e D, representando os níveis de habilidade dos quatro jogadores.
+
+Saída
+A saída contém apenas uma linha com um número inteiro que representa a menor diferença entre os níveis de habilidade para ambas as equipes.
+
+Restrições
+0≤A≤B≤C≤D≤10^4
+
+Exemplos de Entrada
+4 7 10 20	
+0 0 1 1000	
+1 2 3 4	
+
+Exemplos de Saída
+7
+999
+0
+
+
+Fonte: https://neps.academy/problem/123
